@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/04/25 23:52:17.000.185,=rtl.dcp</Transaction>
+    <Transaction>2021/04/27 14:41:52.000.351,=rtl.dcp</Transaction>
+    <Transaction>2021/04/27 16:25:40.000.517,=rtl.dcp</Transaction>
+    <Transaction>2021/04/27 16:26:14.000.552,=rtl.dcp</Transaction>
+    <Transaction>2021/04/27 16:54:36.000.381,=rtl.dcp</Transaction>
+    <Transaction>2021/04/27 17:04:44.000.434,C:\Users\Teste\Documents\Embarcadero\Studio\Projects\Package1.dproj=C:\Users\Teste\Desktop\PROVA\Dpr\spComponente.dproj</Transaction>
+    <Transaction>2021/04/27 17:07:27.000.680,=FireDACCommon.dcp</Transaction>
+    <Transaction>2021/04/27 17:07:27.000.668,=dbrtl.dcp</Transaction>
+    <Transaction>2021/04/27 17:07:27.000.682,=xmlrtl.dcp</Transaction>
+    <Transaction>2021/04/27 17:07:27.000.674,=FireDACSqliteDriver.dcp</Transaction>
+    <Transaction>2021/04/27 17:07:27.000.657,=C:\Users\Teste\Desktop\PROVA\uspQuery.pas</Transaction>
+    <Transaction>2021/04/27 17:07:27.000.672,=FireDAC.dcp</Transaction>
+    <Transaction>2021/04/27 17:07:27.000.677,=FireDACCommonDriver.dcp</Transaction>
+    <Transaction>2021/04/27 21:37:34.000.016,=vcl.dcp</Transaction>
+    <Transaction>2021/04/27 22:53:57.000.583,=C:\Users\Teste\Desktop\PROVA\Dpr\Unit1.pas</Transaction>
+    <Transaction>2021/04/27 22:59:51.000.615,C:\Users\Teste\Desktop\PROVA\UTesteGeraSQL.pas=C:\Users\Teste\Desktop\PROVA\Dpr\Unit1.pas</Transaction>
+    <Transaction>2021/04/27 22:59:51.000.615,C:\Users\Teste\Desktop\PROVA\UTesteGeraSQL.dfm=C:\Users\Teste\Desktop\PROVA\Dpr\Unit1.dfm</Transaction>
+    <Transaction>2021/04/27 23:45:57.000.890,C:\Users\Teste\Desktop\PROVA\UTesteGeraSQL.pas=</Transaction>
+    <Transaction>2021/04/28 00:43:16.000.462,C:\Users\Teste\Desktop\PROVA\Dpr\spComponenteDT.dproj=C:\Users\Teste\Desktop\PROVA\Dpr\spComponente.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

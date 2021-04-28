@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/04/24 01:52:41.000.121,=C:\Users\Teste\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/04/24 01:57:53.000.354,=C:\Users\Teste\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/04/24 11:07:35.000.623,=C:\Users\Teste\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/04/24 11:13:27.000.616,C:\Users\Teste\Desktop\PROVA\UPrincipal.pas=C:\Users\Teste\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/04/24 11:13:27.000.616,C:\Users\Teste\Desktop\PROVA\UPrincipal.dfm=C:\Users\Teste\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021/04/24 11:14:41.000.660,C:\Users\Teste\Desktop\PROVA\Dpr\ProvaDelphiApp.dproj=C:\Users\Teste\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2021/04/24 11:28:37.000.280,=C:\Users\Teste\Desktop\PROVA\Dpr\Unit1.pas</Transaction>
+    <Transaction>2021/04/24 11:36:39.000.847,C:\Users\Teste\Desktop\PROVA\UModelo.dfm=C:\Users\Teste\Desktop\PROVA\Dpr\Unit1.dfm</Transaction>
+    <Transaction>2021/04/24 11:36:39.000.847,C:\Users\Teste\Desktop\PROVA\UModelo.pas=C:\Users\Teste\Desktop\PROVA\Dpr\Unit1.pas</Transaction>
+    <Transaction>2021/04/24 12:20:40.000.266,C:\Users\Teste\Desktop\PROVA\Principal\UPrincipal.pas=C:\Users\Teste\Desktop\PROVA\UPrincipal.pas</Transaction>
+    <Transaction>2021/04/24 12:20:40.000.266,C:\Users\Teste\Desktop\PROVA\Principal\UPrincipal.dfm=C:\Users\Teste\Desktop\PROVA\UPrincipal.dfm</Transaction>
+    <Transaction>2021/04/24 12:27:23.000.628,=C:\Users\Teste\Desktop\PROVA\Dpr\Unit1.pas</Transaction>
+    <Transaction>2021/04/24 12:29:30.000.211,C:\Users\Teste\Desktop\PROVA\Funcoes\UFuncoes.pas=C:\Users\Teste\Desktop\PROVA\Dpr\Unit1.pas</Transaction>
+    <Transaction>2021/04/24 12:33:04.000.533,C:\Users\Teste\Desktop\PROVA\Hierarquia\UModelo.dfm=C:\Users\Teste\Desktop\PROVA\UModelo.dfm</Transaction>
+    <Transaction>2021/04/24 12:33:04.000.533,C:\Users\Teste\Desktop\PROVA\Hierarquia\UModelo.pas=C:\Users\Teste\Desktop\PROVA\UModelo.pas</Transaction>
+    <Transaction>2021/04/24 12:34:46.000.692,=C:\Users\Teste\Desktop\PROVA\Dpr\Unit1.pas</Transaction>
+    <Transaction>2021/04/24 12:35:45.000.470,C:\Users\Teste\Desktop\PROVA\UTarefa1.dfm=C:\Users\Teste\Desktop\PROVA\Dpr\Unit1.dfm</Transaction>
+    <Transaction>2021/04/24 12:35:45.000.470,C:\Users\Teste\Desktop\PROVA\UTarefa1.pas=C:\Users\Teste\Desktop\PROVA\Dpr\Unit1.pas</Transaction>
+    <Transaction>2021/04/24 17:59:38.000.831,=C:\Users\Teste\Desktop\PROVA\Dpr\Unit1.pas</Transaction>
+    <Transaction>2021/04/24 18:00:17.000.238,C:\Users\Teste\Desktop\PROVA\Dpr\Unit1.pas=C:\Users\Teste\Desktop\PROVA\Interface\UInterface.pas</Transaction>
+    <Transaction>2021/04/24 22:57:35.000.257,=C:\Users\Teste\Desktop\PROVA\Dpr\Unit1.pas</Transaction>
+    <Transaction>2021/04/24 22:59:11.000.807,C:\Users\Teste\Desktop\PROVA\UTarefa2.pas=C:\Users\Teste\Desktop\PROVA\Dpr\Unit1.pas</Transaction>
+    <Transaction>2021/04/24 22:59:11.000.807,C:\Users\Teste\Desktop\PROVA\UTarefa2.dfm=C:\Users\Teste\Desktop\PROVA\Dpr\Unit1.dfm</Transaction>
+    <Transaction>2021/04/24 23:35:37.000.702,=C:\Users\Teste\Desktop\PROVA\Dpr\Unit1.pas</Transaction>
+    <Transaction>2021/04/24 23:36:39.000.291,C:\Users\Teste\Desktop\PROVA\Funcoes\UThreads.pas=C:\Users\Teste\Desktop\PROVA\Dpr\Unit1.pas</Transaction>
+    <Transaction>2021/04/25 17:42:06.000.661,C:\Users\Teste\Desktop\PROVA\Funcoes\UThreads.pas=</Transaction>
+    <Transaction>2021/04/25 17:43:49.000.417,=C:\Users\Teste\Desktop\PROVA\Dpr\Unit1.pas</Transaction>
+    <Transaction>2021/04/25 17:44:15.000.402,C:\Users\Teste\Desktop\PROVA\UTarefa3.pas=C:\Users\Teste\Desktop\PROVA\Dpr\Unit1.pas</Transaction>
+    <Transaction>2021/04/25 17:44:15.000.402,C:\Users\Teste\Desktop\PROVA\UTarefa3.dfm=C:\Users\Teste\Desktop\PROVA\Dpr\Unit1.dfm</Transaction>
+    <Transaction>2021/04/27 23:28:29.000.026,=C:\Users\Teste\Desktop\PROVA\UTesteGeraSQL.pas</Transaction>
+    <Transaction>2021/04/27 23:30:01.000.715,=C:\Users\Teste\Desktop\PROVA\uspQuery.pas</Transaction>
+    <Transaction>2021/04/27 23:30:40.000.672,C:\Users\Teste\Desktop\PROVA\uspQuery.pas=</Transaction>
+    <Transaction>2021/04/27 23:30:46.000.200,C:\Users\Teste\Desktop\PROVA\UTesteGeraSQL.pas=</Transaction>
+  </Transactions>
+</BorlandProject>
