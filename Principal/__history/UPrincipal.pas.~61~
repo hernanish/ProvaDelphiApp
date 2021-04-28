@@ -1,0 +1,62 @@
+unit UPrincipal;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.Menus;
+
+type
+  TfrmPrincipal = class(TForm)
+    mPrincipal: TMainMenu;
+    smTarefas: TMenuItem;
+    smTarefa1: TMenuItem;
+    smTarefa2: TMenuItem;
+    smTarefa3: TMenuItem;
+    procedure smTarefa1Click(Sender: TObject);
+    procedure smTarefa2Click(Sender: TObject);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  frmPrincipal: TfrmPrincipal;
+
+implementation
+
+uses
+  UInterface, UTarefa1, UTarefa2;
+
+{$R *.dfm}
+
+procedure TfrmPrincipal.smTarefa1Click(Sender: TObject);
+begin
+  //abrirFormulario(TfrmTarefa1, frmTarefa1);
+  IsChildFormExist(TfrmTarefa1);
+end;
+
+procedure TfrmPrincipal.smTarefa2Click(Sender: TObject);
+//begin
+
+  //abrirFormulario(TfrmTarefa2, frmTarefa2);
+//end;
+begin
+  if not Assigned(frmTarefa2) then
+  begin
+    frmTarefa2 := TfrmTarefa2.Create(Application);
+    frmTarefa2.Show;
+  end
+  else
+  begin
+    if frmTarefa2.WindowState = wsMinimized then
+    begin
+      frmTarefa2.WindowState := wsNormal;
+    end;
+    frmTarefa2.BringToFront;
+    frmTarefa2.SetFocus;
+  end;
+end;
+
+end.
